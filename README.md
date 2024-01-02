@@ -1,10 +1,10 @@
-# Nft_Api_Twitter_Bot
-A NFT Large Movement Twitter Bot that post a tweet of Top 5 NFT 
+# NFT Large Movement Twitter Bot
+A NFT Large Movement Twitter Bot that post a tweet of Top 5 NFT using Coingecko Public API
 
 ![image](https://github.com/alanliew88/Nft_Api_Twitter_Bot/assets/79797236/b94a09a6-3ee1-4206-9127-f44e0b3c08cb)
 
 
-# This Nft_Api_Twitter_Bot was designed to store the API Json Response using SQLite DB
+# This NFT Large Movement Twitter Bot was designed to store the API Json Response using SQLite DB
 
 # Two API Endpoint will be used 
 https://www.coingecko.com/api/documentation
